@@ -96,3 +96,4 @@ The grading rubric is as follows:
 ## Bonus Points (Optional)
 
 The top 10 students on the Private leaderboard will receive bonus points.
+
